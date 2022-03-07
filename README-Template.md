@@ -36,15 +36,14 @@ Detailed description of this repository.
 * Include videos as needed in the \videos folder as .MP4s
 * Drag the video into your README.md once in GitHub and then copy the link in the code below.
 
-<video id="demo-video" style="border-style:solid; border-width:2px" src="https://user-images.githubusercontent.com/<path-to-uploaded-video-in-github>.mp4" width="1024" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *" loop autoplay autobuffer controls muted>
+<video id="demo-video" style="border-style:solid; border-width:2px" src="https://user-images.githubusercontent.com/<path-to-uploaded-video-in-github>demo.mp4" width="1024" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *" loop autoplay autobuffer controls muted>
 Your browser does not support the HTML5 player.
 </video>
 </p>
 
 ## Help
 
-If there is anyting you do not understand about using this template get with other team members.
-Do NOT make assumptions about it use.
+Describe how to get help with this project.
 
 
 
@@ -65,8 +64,7 @@ Contributors names and contact info
 * Timothy J McGuire [@TimothyMcGuire](https://twitter.com/TimothyMcGuire)
 
 
-
-## Version History
+## Release History
 
 * 0.1
     * Various bug fixes and optimizations
@@ -74,6 +72,20 @@ Contributors names and contact info
 * 0.0
     * Initial Release
 
+
+## Future Development
+
+* 0.n
+    * New Feature: Short description
+    * New Feature: Short description
+    * Fix Defects: Short description
+    * Fix Defects: Short description
+
+* 0.n+1
+    * New Feature: Short description
+    * New Feature: Short description
+    * Fix Defects: Short description
+    * Fix Defects: Short description
 
 
 ## License
