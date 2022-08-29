@@ -54,6 +54,11 @@ Describe how to get help with this project.
 |  Template	        | A file used to start others to ensure code and documentation consistency.
 |  ES5, ES6         | Different revsions of the JavaScript (ECMAScript) language standard.
 |  JavaScriptSG     | MicroCODE's JavaScript Style Guide. (Available on GitHub).
+|  MERN             | MongoDB, Express, React, Node JS.
+|  MongoDB          | A ‘NoSQL’ database designed for Cloud applications, also referred to as a ‘Document Store’.
+|  Express          | Express is *not* a database but rather an ‘extensible routing language’ for communication between a Client and a Server.
+|  React            | A Web UI development system, a JavaScript library developed by Facebook and made public—and Open Source—since 2013.
+|  Node JS          | A development stack that executes from a local file store—on a local Server—instead of from a network of remote servers on the Web.
 
 
 
@@ -61,7 +66,7 @@ Describe how to get help with this project.
 
 Contributors names and contact info
 
-* Timothy J McGuire [@TimothyMcGuire](https://twitter.com/TimothyMcGuire)
+* Timothy J McGuire [GitHub @tjmcode] (https://github.com/tjmcode)
 
 
 ## Release History
